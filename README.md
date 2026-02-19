@@ -58,8 +58,6 @@ Apollo_Colab_Inference_2026/
 └── README.md                  ← This file
 ```
 
-**Deployment note:** `base_model.py` is not used directly from this repo at runtime — Cell 1 of the notebook downloads it and places it at `/content/Apollo/look2hear/models/base_model.py`, overwriting the upstream file inside the cloned Apollo repo.
-
 ---
 
 ## Available Models
